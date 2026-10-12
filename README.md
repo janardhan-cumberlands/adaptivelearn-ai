@@ -33,7 +33,5 @@ Run `npm run build` or `npm.cmd run build` in PowerShell.
 6. Capture screenshots and record actual results. Do not claim tests passed until you run them.
 
 ## AI-tool disclosure
-If you used ChatGPT to draft or revise code or report text, disclose that assistance as required by your course. Review and understand the code before submission.
+ChatGP was used in brainstorming, code construction and fixing. the rest f the work was done by me.
 
-## GitHub
-After you create and push the repository, add its real URL to the report. Do not submit a placeholder as if it were a live repository.
