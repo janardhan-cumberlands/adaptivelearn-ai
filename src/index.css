@@ -1,0 +1,1 @@
+html{min-width:320px;scroll-behavior:smooth}body{margin:0;min-width:320px;min-height:100vh}#root{min-height:100vh}*{box-sizing:border-box}button,input{font:inherit}button:focus-visible,input:focus-visible{outline:3px solid #a79aff;outline-offset:3px}::selection{background:#dcd5ff;color:#24233b}
